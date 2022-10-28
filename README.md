@@ -1,7 +1,7 @@
 # Taichi DEM
-A minimal DEM simulation demo written in Taichi.
+A minimal DEM simulation demo written in Taichi, with round particles visualized as ellipses.
 
-<img src="https://raw.githubusercontent.com/taichi-dev/public_files/master/taichi_dem/demo.gif" height="270px">
+<img src="https://github.com/JieQi-github/taichi_dem_ellipse_visualization/blob/2c5161637ce4842eaff98327962f6b6910cd33e9/ellipse_visualization.gif" height="650px">
 
 > To implement your own version, click the "Use this template" button on this page and simply modify the `dem.py` script.
 
